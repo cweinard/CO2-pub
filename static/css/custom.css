@@ -1,0 +1,12 @@
+.box {
+  background-color: #f4f3f2;
+}
+
+.quire-cover__hero {
+    background-image: url('/img/pixel.png');
+    background-size: cover;
+    image-rendering: pixelated;
+}
+.quire-cover__overlay {
+    image-rendering: initial;
+}

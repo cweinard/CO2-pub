@@ -3,7 +3,7 @@
 }
 
 .quire-cover__hero {
-    background-image: url('/img/pixel.png');
+    background-image: url('/CO2-pub/img/pixel.png');
     background-size: cover;
     image-rendering: pixelated;
 }

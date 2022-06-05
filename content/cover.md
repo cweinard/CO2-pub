@@ -8,7 +8,7 @@ toc: false
 image: pattern-spiral-overlay.png
 ---
 
-We have lift-off! Getty has launched a new collection online. The project marks a major step forward for Getty, and for the museum sector as a whole. The new resource features rich object pages that aim for a comprehensive view of all that Getty knows about an object, including audio, video, publications, provenance and more. The site offers new gallery pages, exhibition pages and people pages that connect and contextualize works of art. The fresh, clean, responsive design extends the new component-based design system that has revitalized Getty.edu.
+We have lift-off! Getty has launched a new [collection online](https://www.getty.edu/art/collection/). The project marks a major step forward for Getty, and for the museum sector as a whole. The new resource features rich object pages that aim for a comprehensive view of all that Getty knows about an object, including audio, video, publications, provenance and more. The site offers new gallery pages, exhibition pages and people pages that connect and contextualize works of art. The fresh, clean, responsive design extends the new component-based design system that has revitalized [Getty.edu](https://www.getty.edu). And, supporting it all is a new data infrastructure based on [Linked Art](https://linked.art), a shared standard for describing collections.
 
 This digital publication aims to share some of the thinking that went into Getty’s re-imagined collection online. Written as a series of articles, the publication will explore specific topics by looking broadly across the sector, and then diving into the specifics of Getty’s own implementation.
 

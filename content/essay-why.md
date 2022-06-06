@@ -49,7 +49,12 @@ When the whole collection is at their fingertips, a museum social media manager 
 
  ## Scholarship
 
-Online collections bring museums into a worldwide scholarly community. (All scholarship today is digital scholarship.) Online collections are a space to share the museum’s own research, as well as that of other scholars. Moreover, online collections provide the building blocks for new scholarship: object pages provide images, context, and act as stable referents as objects circulate in networked conversation. Sharing collection information widely, and inviting feedback, is a great way to refine that information. Online collections even allow museums to suggest what is _not_ known and so direct where further research might be fruitful. 
+Online collections connect museums to a worldwide scholarly community. (All scholarship today is digital scholarship.) Online collections are a space to share the museum’s own research, as well as that of other scholars. 
+
+Sometimes, museums confuse the online collection with the scholarly catalogue, and impose a long research and editorial process before “publishing” only highlights of the collection. (As soon as a catalogue is published, it’s out of date.) Instead, it’s best to understand online collections as the building blocks for ongoing scholarship: object pages provide images, links, context, and act as stable referents as objects circulate in networked conversation. Sharing collection information widely—and inviting feedback—is a way to refine that information. Online collections even allow museums to suggest what is not known and so direct where further research might be fruitful. 
+
+Collection knowledge is never complete; online collections provide a platform that accommodates change and growth, new connections, perspectives, context and stories.
+
 
 
 {{< q-class "box" >}}
@@ -62,7 +67,7 @@ With a robust online collection in place, creative interpretive projects are fre
 
 
 {{< q-class "box" >}}
-Having an online collection allows a digital team to build experimental interfaces (tailored for specific audiences and uses), and link to object pages for detailed information.
+An online collection frees a digital team to build experimental interpretive interfaces (tailored for specific audiences and uses), and link to object pages for detailed information.
 {{< /q-class >}}
 
  ## Education

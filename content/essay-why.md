@@ -53,7 +53,7 @@ Online collections connect museums to a worldwide scholarly community. (All scho
 
 Sometimes, museums confuse the online collection with the scholarly catalogue, and impose a long research and editorial process before “publishing” only highlights of the collection. (As soon as a catalogue is published, it’s out of date.) Instead, it’s best to understand online collections as the building blocks for ongoing scholarship: object pages provide images, links, context, and act as stable referents as objects circulate in networked conversation. Sharing collection information widely—and inviting feedback—is a way to refine that information. Online collections even allow museums to suggest what is not known and so direct where further research might be fruitful. 
 
-Collection knowledge is never complete; online collections provide a platform that accommodates change and growth, new connections, perspectives, context and stories.
+[Collection knowledge is never complete](https://medium.com/@caw_/data-as-medium-361814dba6a9); online collections provide a platform that accommodates change and growth, new connections, perspectives, context and stories.
 
 
 

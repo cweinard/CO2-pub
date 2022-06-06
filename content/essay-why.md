@@ -11,7 +11,9 @@ abstract: |
   
 ---
 
-Why make museum collections available online? It’s not an easy task; it can be expensive and requires substantial ongoing maintenance. (Digitization—the related task of photographing and cataloging collections—is also a heavy lift.) Despite the challenges, online collections amplify museum impact. Most museum mission statements include notions of education, inspiration and collection care. Online collections are foundational infrastructure to execute those museum mission statements today. 
+
+Why make museum collections available online? It’s an important question; offering an online collection can be expensive and requires ongoing maintenance. (Digitization—the related task of photographing and cataloging collections—is also a heavy lift.) Despite the challenges, though, online collections represent a responsibility and a powerful opportunity to amplify museum impact. Most museum mission statements include notions of education, inspiration and collection care. Online collections are foundational infrastructure to execute those museum mission statements today. 
+
 
 ## Digital cultural objects
 
